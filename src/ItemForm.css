@@ -1,0 +1,15 @@
+.item-form {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .item-form input {
+    flex-grow: 1;
+  }
+  
+  .item-form button {
+    padding: 10px;
+  }
+  
+  
